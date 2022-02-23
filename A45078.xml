@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble proposal to cause bancrupts make better and more speedier payment of their debts to their creditors than, by long experience hath been found, the statutes against bancrupts do effect, or than any other way hitherto proposed, hath shewen by a well-wisher to trade and the publick good.</title>
+            <author>Well-wisher to trade and the publick good.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45078</idno>
+            <idno type="STC">Wing H3594</idno>
+            <idno type="STC">ESTC R9018</idno>
+            <idno type="EEBO-CITATION">12090541</idno>
+            <idno type="OCLC">ocm 12090541</idno>
+            <idno type="VID">53863</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53863)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 73:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble proposal to cause bancrupts make better and more speedier payment of their debts to their creditors than, by long experience hath been found, the statutes against bancrupts do effect, or than any other way hitherto proposed, hath shewen by a well-wisher to trade and the publick good.</title>
+                  <author>Well-wisher to trade and the publick good.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debtor and creditor --  Great Britain.</term>
+               <term>Bankruptcy --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53863:1"/>
+            <pb facs="tcp:53863:1"/>
+            <p>AN Humble Propoſal TO Cauſe BANCRUPTS make better and more ſpeedier Payment of their Debts to their Creditors, Than, By long Experience hath been found, the Statutes againſt Bancrupts do effect; Or, Than any other Way hitherto Propo<g ref="char:EOLhyphen"/>ſed, hath ſhewen.</p>
+            <p>
+               <hi>By a Well-wiſher to Trade, and the Publick Good.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:53863:2"/>
+            <pb n="3" facs="tcp:53863:2"/>
+            <head>An Humble PROPOSAL, <hi>&amp;c.</hi>
+            </head>
+            <p>THE Benefits proceeding from Trade, are Obvious to all, every one granting, it advanceth our <hi>Manufactur's,</hi> our <hi>Growths,</hi> and the <hi>Land</hi> it ſelf in Value: Yet few, ſo ſeri<g ref="char:EOLhyphen"/>ouſly as they ought, do conſider the Coyneſs of this <hi>Worthy Dame,</hi> who Eſpouſeth her ſelf to none, longer than they bid a free Welcome, and kindly Careſs both Her and her Followers; And therefore it's a wonder, we have had ſo greatly her Favour, ſince we treat her Retinue with ſo much <hi>Immanity;</hi> For when any of them chance to be caſt behind by Misfortunes, we Seiſe withall Violence, and caſt them into Priſons, where they lie like the <hi>Damned,</hi> without a <hi>Moments Reprieve</hi> or <hi>End of their Torments;</hi> purſuing them with all the Rigour that Law can inflict, how unequal or inhumane ſoever we eſteem the Proceſs, were it turn'd on our ſelves. For what more unna<g ref="char:EOLhyphen"/>tural Proceedings can there be by any Law, than
+<pb n="4" facs="tcp:53863:3"/>is found in the Practice of that againſt <hi>Banc<g ref="char:EOLhyphen"/>rupts,</hi> where when they have once taken out a Commiſſion againſt any, by the Authority there<g ref="char:EOLhyphen"/>of, they Convene perſons of all Ranks before them where you have poor helpleſs Women (to heighten their ſorrow) frighted with Com<g ref="char:EOLhyphen"/>miſſioners by the menaces of a Priſon, and forc'd to ſwear againſt their Husbands, Children againſt their Parents, Parents againſt their Children, Ser<g ref="char:EOLhyphen"/>vants againſt their Maſters, and the intimateſt Friends, one againſt the other: And in, ſuch caſes oft-times it happens, where neither Impru<g ref="char:EOLhyphen"/>dence, Neglect, or Vicious Living hath cauſed their Miſery, but hath rather come to paſs by the malice of ſome contemporary Rivals with them in Trade, who have deviſed variety of ways to deſpoil them of Credit; and ſo deſtroying the Reputations of ſuch who have great Concerns abroad, do eaſily ſay waſte their Eſtates at home; Or elſe they may be undone by ſome <hi>Loſs at Sea,</hi> or other <hi>meer fatal ſtroke of Misfortune</hi> proceeding from <hi>Cauſes unſeen,</hi> or <hi>Accidents unthought on;</hi> which do often befal the <hi>Beſt,</hi> the <hi>Diligentest,</hi> the <hi>Frugalest,</hi> and <hi>Wariest</hi> of Men, if once plun<g ref="char:EOLhyphen"/>ged in Buſineſs, and immerged in Worldly Af<g ref="char:EOLhyphen"/>fairs.</p>
+            <pb n="5" facs="tcp:53863:3"/>
+            <p>And ſome ſuch at times it lights on, whoſe Intentions are far from all Fraud, and whoſe Converſation in Trade was ever found upright and honeſt, as their Ruin might rather merit compaſſion, and that Collections by Publick Briefs ſhould be made, (as Authority in other Caſes (for he as well deſerves pity, who hath his Eſtate ſunk at Sea, as he that hath his Houſe burnt at Land) not leſs deplorable, does allow) wherewithal to ſuſtain them and their Families; than to have that little Eſtate which remains, with all the Cruelty of an unna<g ref="char:EOLhyphen"/>tural Law, torn out of their hands, when they had preſerved and collected it for no other end, but equally to ſhare out to their Creditors, on condition of their own Liberty; A Contract ſo juſt, no good Man diſallows: freedom of Per<g ref="char:EOLhyphen"/>ſon from Confinement being the old Engliſh Law, till the deſire of Gain proſtituted that Na<g ref="char:EOLhyphen"/>tive Right, and introduced theſe <hi>Eſtate deſtroying, Spirit-breaking,</hi> and <hi>Ingenuity ſtarving Impriſonments,</hi> which are ſo commonly practiſed amongſt us, becauſe they are now eſtabliſhed by Law, and which by ſad experience is found prejudicial to both Creditor and Debtor, beyond what the Primitive Contrivers deſigned, as we may in charity judge: Priſons in reaſon moſt proper
+<pb n="6" facs="tcp:53863:4"/>(if for any) for the <hi>ſtubborn</hi> and <hi>wilful,</hi> not the <hi>weak</hi> and <hi>unable.</hi>
+            </p>
+            <p>So that if the violenteſt proſecuting Creditors, or the very Commiſſioners themſelves, who are Authorized and Accuſtomed by Law, to ranſack and rifle decayed Mens Eſtates, were thus melt<g ref="char:EOLhyphen"/>ed into the ſame Mould by Misfortunes, they would judge it right Reaſon, there ſhould be an Abrogation of theſe Statute Laws againſt Bank<g ref="char:EOLhyphen"/>rupts, or at the leaſt, that they would become ſo favourable and kind to their <hi>Children,</hi> their <hi>Kind<g ref="char:EOLhyphen"/>red,</hi> and <hi>Friends,</hi> which might out-live their <hi>good Fortunes,</hi> as willingly to move by Petition the Honourable Houſes of Parliament, now ſitting, for Redreſs of Grievances; that this might as a main one be redreſſed, either by aboliſhing theſe <hi>Eſtate-waſting Statutes</hi> of Bankrupt, wherein none but Commiſſioners and Aſſignees are ac<g ref="char:EOLhyphen"/>cuſtomed to make Profit. Or at leaſt, that they would by Law capacitate the <hi>Majority of Cre<g ref="char:EOLhyphen"/>ditors</hi> to make Agreement concluſive and bind<g ref="char:EOLhyphen"/>ing <hi>to the whole,</hi> with their Debtors; eſpecially with ſuch who have lain under the <hi>Purgatory of Trial for ſome years,</hi> not only without the leaſt Benefit, but to the <hi>great Loſs of their Creditors;</hi> tho their Perſons have been confined to ſevere Impriſonments, and their Eſtates ſubject as it
+<pb n="7" facs="tcp:53863:4"/>were to the Inquiſition, (a Court in other caſes at this time ſo hated in <hi>England</hi>) undergoing all the ſeverities that the three Statute Laws now in force can impoſe on Men ſo infortunate; and wherein each one, like <hi>Nebuchadnezzar</hi>'s Fur<g ref="char:EOLhyphen"/>nace, have been made <hi>hotter by degrees;</hi> as if the Law-makers of thoſe times had intended to have forced all Men beyond <hi>Fate,</hi> and through <hi>Fear</hi> to have made all <hi>honeſt</hi> or <hi>fortunate.</hi>
+            </p>
+            <p>And tho ſome do ſuppoſe this Law of the <hi>Major</hi> part bearing ſway, is in Reaſon unjuſt, and in no caſe ought to the <hi>Minor</hi> in value be binding, which they argue from a Principle <hi>mainly Fundamental,</hi> That every Man always hath Right to diſpoſe of his own, how, and which way he pleaſeth, and that therefore theſe Honourable Houſes of Parliament cannot take cognizance, by this means to redreſs ſuch a Grie<g ref="char:EOLhyphen"/>vance.</p>
+            <p>To which it is replied, That if Circumſtan<g ref="char:EOLhyphen"/>ces be ſo ſet, as renders <hi>private Property</hi> a <hi>Public Grievance,</hi> in ſuch caſes it ſeems reaſonable, that the <hi>Public</hi> do exerciſe their Authority to convert this <hi>private Grievance</hi> into <hi>their Common-weal.</hi> Which Courſe in making Laws is moſt frequent and in uſe. The like whereof in ſome kind hath lately been practiſed by the laſt Parliament, diſ<g ref="char:EOLhyphen"/>poſing
+<pb n="8" facs="tcp:53863:5"/>the Properties of ſo many thouſands of Perſons by that Ten pound Act, as could not well amount unto leſs than a Million of Money, whereby was moſt mercifully delivered many Hundreds of poor ſtarved Priſoners from Jail, ſome whereof brought conſiderable Eſtates with them into Priſon; ſo that had there been this Law of the <hi>Majority</hi> in force, it would not only have thus prevented their Ruin, but in all pro<g ref="char:EOLhyphen"/>bability, thoſe <hi>conſiderable Sums now loſt or ſpent,</hi> had then been <hi>paid to their Creditors.</hi>
+            </p>
+            <p>But to make it appear, that <hi>Property</hi> in ſome Caſes may amount to a <hi>Grievance,</hi> eſpecial<g ref="char:EOLhyphen"/>ly in ſuch Nations where Trade is admitted, and where it is moſt frequent, as in this of ours. Let us ſet before us the <hi>State of our Navigation,</hi> which is the <hi>Strength of our Kingdom,</hi> and the <hi>Vehicle of Trade;</hi> commencing its Riſe and happy Succeſs in this and all Nations, from the <hi>Majority ruling the Minority in value;</hi> and which by continued experience is found ſo wholſom a Law, as will never periſh whiles Trade and Navigation laſts in the World. Now the uſual Method of Mer<g ref="char:EOLhyphen"/>chants is to build Ships in ſhares, which they commonly divide into 3/3 4/4 or Quarter parts, if of ſmall value; but Ships of greater burthen they uſually branch into more, as 8/8 16/16 or 32/32 parts.
+<pb n="9" facs="tcp:53863:5"/>Which to make yet more plain to our purpoſe, we will ſuppoſe the <hi>Charge of a Ship</hi> to coſt 6400 <abbr>
+                  <hi>l.</hi>
+               </abbr> (tho the <hi>Coſt</hi> and Charge of moſt of our <hi>Eaſt-India</hi> Ships ſet to Sea, comes to well nigh double the value); now that Owner who hath 1/32 part, coſt<g ref="char:EOLhyphen"/>ing but 200 <abbr>l.</abbr> hath as true a propriety as he that hath 1/16, or one half part, amounting to 3200 <abbr>l.</abbr> and therefore by this Law of Propriety ſhe can undertake no deſign of a Voyage without his concurrence, how profitable ſoever it appears to the reſt of the Owners; nay, tho their Arguments to him were cogent enough to perſuade, and that their Reaſons convince him, there is nothing but Gain attending the Project; yet being not his Intereſt to conſent, becauſe his Reſolution is fixed on the Ruin of that Owner, who hath one half part of the Veſſel, in regard he knows more of his Eſtate is therein laid out than he ought to have done on ſuch a Deſign, and that he hath made too bold with his Credit; and therefore by ſtopping all Voyage, he conſtrains him to ſell at <hi>great Loſs,</hi> or elſe at the price of his ſmall Share, will condemn the Ship to <hi>lie and rot by the Walls.</hi> Or it may otherwiſe happen, Owners deſign her a Voyage, to them all in appearance moſt gainful; but with ſuch Merchandize ſhe fraights to a Port, as to him would prove more
+<pb n="10" facs="tcp:53863:6"/>twice the loſs of his ſmall part in the Ship, by bringing down the price of ſuch Goods, as he hath engroſſed large ſtore of in the ſaid place; ſo that for him to conſent in the Voyage is <hi>morally impoſſible,</hi> without the force of a Law, ſince <hi>Inte<g ref="char:EOLhyphen"/>rest</hi> to him (and all Men) is always <hi>Reaſon</hi> in <hi>Trade.</hi> And therefore for Redreſs of this Miſ<g ref="char:EOLhyphen"/>chief, by experience the beſt Courſe hath been found, to form into a Law, that ⅔ parts intereſt ſhall govern ⅓ ¾ ¼; and ⅝ parts gives Law to ⅜, as doth 9 to 7/16, <hi>&amp;c.</hi> And tho this Demonſtration ſeems too prolix, for which the Reader's kind pardon is begged; yet ſince the whole Argument of the <hi>Hinderance and Let of this Law</hi> ſeems chiefly to hang upon this <hi>Pin of Propriety,</hi> 'tis fit to uſe plainneſs of Reaſon to pull it out, and to ſhew with all clearneſs, that <hi>particular Interest</hi> may be prejudicial to <hi>common Concern,</hi> and without the <hi>Force of Law</hi> cannot be made <hi>conſiſtent with the Public Good.</hi>
+            </p>
+            <p>Furthermore, this Inſtance of <hi>Ship</hi> and <hi>Owners,</hi> bears ſome reſemblance with <hi>Creditors</hi> and their <hi>Debtor,</hi> where every Creditor hath embarked a ſhare, or is Owner in this loſing Voyage of the Debtor, and wherein are found many <hi>various Intereſts, croſs Intrigues,</hi> and <hi>humorous wilful Devices</hi> to miſchief one another, where every one
+<pb n="11" facs="tcp:53863:6"/>hath not his will, each Man projecting and de<g ref="char:EOLhyphen"/>viſing with himſelf, which way he ſhall manage to obtain the moſt for his ſhare, how deſtructive ſoever it be to the Public Concern. And he who is concerned 100 <abbr>l.</abbr> being rich, and well able to ſuſtain its Loſs, hectors and inſults with all vio<g ref="char:EOLhyphen"/>lence over another poor Creditor concerned for more then he is able to bear, and with much vaunting Humor at all Meetings boaſts he will <hi>have all,</hi> or <hi>loſe all:</hi> which often proves alſo <hi>bane<g ref="char:EOLhyphen"/>ful</hi> to the <hi>credulous Widow,</hi> unverſed in Buſineſs, who hath placed her All in ſo unhappy an hand; and no leſs to be lamented is the <hi>helpleſs Orphan,</hi> who hath the whole of his Maintenance left to ſuſtain him envelop't in the like fatal Misfor<g ref="char:EOLhyphen"/>tune. Both which might better ſpare the loſs of <hi>one Third,</hi> or a <hi>Half of their Estates,</hi> as many times at the firſt is offered them, than to be diſpoiled of the <hi>whole,</hi> by theſe <hi>wilful Humorists,</hi> graſping at their all, till all by their delay is ſpent or loſt. Infinite Examples <hi>moſt deplorable</hi> may of this kind be ſhewn, and more will daily come to paſs, except the Wiſdom of our Law-makers, by this only Remedy; prevent it, Enacting, that in all caſes of this kind, the <hi>Majority of Creditors,</hi> like that of <hi>Ship-Owners,</hi> give Rule and Law to the leſſer in Intereſt concerned.</p>
+            <pb n="12" facs="tcp:53863:7"/>
+            <p>Wherein it will alſo be further needful for the Redreſs of this ſo <hi>grievous a Grievance,</hi> that all Executors, Adminiſtrators, Guardians, Truſtees, and other Perſons, diſabled by means of the pre<g ref="char:EOLhyphen"/>ſent Laws, be enabled by ſome Clauſe in a new Law, to accept of any Offer, and to make any Compoſition or Agreement, with the Debtor, for leſs than the whole Debt, as if it was their own Concern; and ſhall by no means be liable to account with their Wards, Ceſteque Truſts, or other Perſons whatſoever, for more than what they do in very deed receive on ſuch accounts; elſe will the <hi>Remora</hi> be ſo little hereby remo<g ref="char:EOLhyphen"/>ved, as will leave all to the <hi>old Confuſion.</hi>
+            </p>
+            <p>It will no leſs be neceſſary, that one thing more on the Debtors behalf be dommoded, whereby to enable his performance (as the Cre<g ref="char:EOLhyphen"/>ditor to comply) with his Agreement; other<g ref="char:EOLhyphen"/>wiſe not one in ten Perſons will be able to make good their Accords, becauſe of the Reaſons which follow.</p>
+            <p>For no man becomes <hi>Inſolvent,</hi> or <hi>Breaks,</hi> who hath the remaining Eſtate reſerved in ready Mo<g ref="char:EOLhyphen"/>ny in his hands; But lies in Debts, Goods, Mer<g ref="char:EOLhyphen"/>chandiſe, or ſome other thing worth Mony con<g ref="char:EOLhyphen"/>cealed, ſo that by receiving which Debts, and ſelling thoſe Goods at Market like value, he cal<g ref="char:EOLhyphen"/>culates,
+<pb n="13" facs="tcp:53863:7"/>will amount to the offer he made his Creditors, and to which they) have already agreed.</p>
+            <p>But our preſent Law being ſuch, as a one can ſecurely pay a known <hi>Bancrupt</hi> the Money he owes him, nor buy of him any Goods, without fear of paying twice of them, Becauſe if the <hi>Bancrupt</hi> perform not his Compoſition (by what Accident ſoever it happens) the Debtor, as alſo the Chapman to the <hi>Bancrupt,</hi> do both of them repay their Monies to the Statute on foot, which is the very Cauſe, why ſome men (when Sta<g ref="char:EOLhyphen"/>tutes againſt them are once taken out) fore ſee<g ref="char:EOLhyphen"/>ing themſelves <hi>ſplit on this Rock,</hi> do never make their Creditors any offer of all. And others, who ſetting to Sea, with better Fortune as (they thought) gaining the proſperous Gale of their Cre<g ref="char:EOLhyphen"/>ditors <hi>univerſal conſent and accord,</hi> have ſcarce gon a League on their Voyage, before they have ſunk on this Sand, as unable to Comply, becauſe no Debtor would pay, no Chapman would buy, except at price ſo low and vile, as would re in<g ref="char:EOLhyphen"/>ſure him all proſpect of Loſs that might in futu<g ref="char:EOLhyphen"/>rity happen. Whence it comes to paſs, to the <hi>Creditors great loſs and dammage,</hi> that the <hi>Bancrupt</hi> gives one Moyety of his Goods, to have Money for the other part paid him, which may be ſaid
+<pb n="14" facs="tcp:53863:8"/>the true Cauſe, when Statutes are once taken out, ſo few Men (of any thing) make offer, and fewer are able to perfect their Accord: but are hereby plung'd into Miſeries far greater, and ac<g ref="char:EOLhyphen"/>counted more Knaves than at firſt.</p>
+            <p>For Remedy whereof, it is in like manner needful, when the Debtor hath once accorded with the <hi>Majority</hi> of his Creditors; that then all Monies paid, or Sales of Goods made, ſhould be allowed of as firm and good in Law. Which will undoubtedly produce leſs loſs to Creditors; by reaſon the Debtor, being made thus capable to perform, <hi>will alwayes make offer of the remain<g ref="char:EOLhyphen"/>ing Eſtate in his hands</hi> (it reſting in the power of the <hi>Majority</hi> to reject his Propoſal, if they be not fully perſuaded that he does them Right:) for not one Man in many, is ſo void of all ho<g ref="char:EOLhyphen"/>neſty, or born ſo much a Knave, but prefers his <hi>Liberty,</hi> before his <hi>Confinement,</hi> it being only the aforeſaid Impoſſibility of his Compliance, which impoſes a neceſſity upon him, ſilently to acqui<g ref="char:EOLhyphen"/>eſce; and with the <hi>Proverb</hi> to conclude, That ſince it muſt be a ſorrow, <hi>A Fat one is better than a Lean:</hi> And ſo, I ſay, without ſtrugling, he calmly ſurrenders himſelf, to <hi>philoſophize with his Goal,</hi> and willingly undergoes <hi>the Verdict of his Creditors Jury, to make Dice of his Bones.</hi> Which Courſe doth as often affect the Creditor with
+<pb n="15" facs="tcp:53863:8"/>
+               <hi>Torment,</hi> as it feeds the Debtor with <hi>Affliction:</hi> Producing no real benefit to any but <hi>Goalers;</hi> whom it feaſts with all Delicates, and Clothes them in Gayities, affording the attendance of Coaches and Foot-boys, arrayed in Liveries more ſumptuous, than Keepers of poor Priſoners, unable to pay their <hi>Debts,</hi> ſhould require (by their Commitments <hi>in Salva Cuſtodia</hi>) to keep them.</p>
+            <p>And all this occurs, through the <hi>Inadvertency of Creditors,</hi> who daily go on lineing their Priſon Chambers with freſh Debtors, fraught with <hi>Your Eſtates;</hi> which the <hi>Goaler extorts with all Cruelty,</hi> from <hi>your Debtors,</hi> with ſuch Tricks and Devices out of the Verge of all Statutes; nor can any Law be formed to prevent them, except each Month in the Year, a new one be made: So craftily do's this <hi>Goal-abuſe, Spawn</hi> from the <hi>firſt Grievance,</hi> which admits of no Cure, like the Law we propoſe, of the <hi>Majority</hi> in Value, to Govern the reſt concern'd. Whereof, we may be confident, a ſmal time of Trial, would moſt effectually ſhew it, a true Means to regulate Trade and Traders in this point: And would no leſs retrive the Imprudent misfortune of thoſe Creditors, who conſtitute <hi>Goalers Guardians of their Eſtates, in their Debtors Hands,</hi> which ſeldom with better Fortune ſucceeds, than that of his, who ſet <hi>the Wolf</hi> to guard <hi>the Lambs.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
